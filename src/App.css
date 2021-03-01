@@ -98,7 +98,7 @@ margin-left: 10px;
   right:25px;
   margin:5px;
   cursor:pointer;
-  
+  color: white;
  
 
 }
@@ -112,4 +112,14 @@ margin-left: 10px;
   display:flex;
   flex-direction: column;
   list-style-type: none;
+  
+}
+
+.App-todo{
+  height: 100vh;
+  background-image: url("./todo.png");
+  
+  background-position: center;
+  background-size: cover;
+  
 }
