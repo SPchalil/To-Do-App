@@ -4,6 +4,8 @@ To-Do App is a project built to practice and hone my react skills.
 
 The project allows user to create a to-do list as well as to delete an item from the to-do list. The project was built upon following a youtube tutorial on React.
 
+![todo](https://user-images.githubusercontent.com/74065235/109562384-e2a57f00-7ab8-11eb-9028-e92389d667e0.png)
+
 This app requires Node Package Manager (npm) to run. You can clone the repo and follow the directions below to run an offline version of this app on your local machine.
 
 # Getting Started with Create React App
