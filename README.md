@@ -1,8 +1,8 @@
 # To-Do App
  
-To-Do App is a project built to practice and hone my react skills.
+A simple To-Do App is a project built to practice and hone my react skills.
 
-The project allows user to create a to-do list as well as to delete an item from the to-do list. The project was built upon following a youtube tutorial on React.
+The project allows user to create an item to the to-do list as well as to delete an item from the to-do list. The project was built upon following a youtube tutorial on React.
 
 ![todo](https://user-images.githubusercontent.com/74065235/109562384-e2a57f00-7ab8-11eb-9028-e92389d667e0.png)
 
